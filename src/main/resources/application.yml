@@ -1,0 +1,6 @@
+album:
+    url:
+      scheme: https
+      host: jsonplaceholder.typicode.com
+      path: /photos
+      parm: albumId
